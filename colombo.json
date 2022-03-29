@@ -1,0 +1,22 @@
+{
+"UTENTI":[
+  {
+  "nome":"Salmone",
+  "cognome":"Cognome",
+  "matricola":"Al14400",
+  "età":"19",
+  "color": "gold",
+  "number": 1112223334,
+  "string": "Ciao belli"
+  },
+  {
+  "nome":"Sasso",
+  "cognome":"Franco",
+  "matricola":"Al13875",
+  "età":"18",
+  "color": "silver",
+  "number": 4445556667,
+  "string": "Addio brutti"
+  }
+  ]
+}
